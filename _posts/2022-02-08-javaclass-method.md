@@ -70,6 +70,7 @@ int printStr(){
     System.out.printf("helloworld");
 }
 ```
+```java
 위같은 경우는 입력값과 리턴값이 둘 다 없고, "helloworld"만 출력하는 메소드이다.
 
 return 응용하기
